@@ -1,7 +1,7 @@
-# Hii, I'M Anushka Dhawas
+# Hii there! I'M Anushka Dhawas
 
-👩‍💻 Electrical & Computer Engineering Student | Web Developer ⚡
-Hi there! I'm Anushka Dhawas, an aspiring Full Stack Web Developer with a passion for technology, problem-solving, and innovation. 
+👩‍💻 Electrical & Computer Engineering Student ⚡
+An aspiring Full Stack Web Developer with a passion for technology, problem-solving, and innovation. 
 🔹 Tech Enthusiast | Cloud Computing ☁️ | DSA Learner 🔹
 📌 Connect with me on LinkedIn:https://www.linkedin.com/in/anushka-dhawas-b9300a266/
 🚀 Let's build something amazing together!
